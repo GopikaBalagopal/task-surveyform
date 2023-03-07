@@ -1,0 +1,27 @@
+.Inputname{
+    position: relative;
+}
+.First{
+    position: absolute;
+    font-size: 12px;
+    }
+.Last{
+    position: absolute;
+    left:365px;
+    font-size: 12px;
+}
+
+.form{
+    margin: 50px;
+    border: 1px solid rgb(201, 184, 184);
+}
+.Name{
+    display: flex;
+    gap: 50px;
+}
+.yellow{
+    color:yellow;
+}
+
+
+
